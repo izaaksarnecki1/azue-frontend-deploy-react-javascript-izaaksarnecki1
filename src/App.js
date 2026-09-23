@@ -1,3 +1,5 @@
+import React from "react";
+
 function App() {
   const value = "NORWAY!!!!!!!!!!!";
   return <div>Hello {value}</div>;

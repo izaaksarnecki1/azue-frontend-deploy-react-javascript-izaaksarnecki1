@@ -1,7 +1,5 @@
-import React from 'react';
-
 function App() {
-  const value = 'World';
+  const value = "NORWAY!!!!!!!!!!!";
   return <div>Hello {value}</div>;
 }
 
